@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" />  -->
 <h1 align="center">Hi 👋, I'm santosh muruggu</h1>
 <h3 align="center">A passionate AI-ML Engineer from India</h3>
 
