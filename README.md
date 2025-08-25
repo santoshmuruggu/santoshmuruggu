@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReinforcementLearning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q-nyjuGEZecJWPp-walT9AtCArsMO_RP/view?usp=sharing](https://drive.google.com/file/d/1Q-nyjuGEZecJWPp-walT9AtCArsMO_RP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q-nyjuGEZecJWPp-walT9AtCArsMO_RP/view?usp=sharing](https://drive.google.com/file/d/1Nbq8SbBn-hiYbFzuuR_SIKYPr7hqrNtQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
