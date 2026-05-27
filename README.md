@@ -1,70 +1,140 @@
+````md
 <div align="center">
 
-<img 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo3b3RvNXZjNDVzcDk1dGM4cG14bHZjN2xzNHVqNG9iMjdpbzEyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif"
-width="100%"
-/>
 
-<br><br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo3b3RvNXZjNDVzcDk1dGM4cG14bHZjN2xzNHVqNG9iMjdpbzEyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="100%">
 
-# SANTOSH MURUGGU
 
-### Quant • AI • Systems • Space Tech
+<br>
+<br>
+
+
+```ascii
+███╗   ███╗██╗██╗     ███████╗███████╗     ██████╗  ██████╗ ███████╗
+████╗ ████║██║██║     ██╔════╝██╔════╝    ██╔═████╗██╔═████╗╚════██║
+██╔████╔██║██║██║     █████╗  ███████╗    ██║██╔██║██║██╔██║    ██╔╝
+██║╚██╔╝██║██║██║     ██╔══╝  ╚════██║    ████╔╝██║████╔╝██║   ██╔╝
+██║ ╚═╝ ██║██║███████╗███████╗███████║    ╚██████╔╝╚██████╔╝   ██║
+╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝     ╚═════╝  ╚═════╝    ╚═╝
+````
+
+```text
+> CLASSIFIED SYSTEM LOG
+──────────────────────────────────────────────────────────────
+
+SUBJECT           : miles_007
+STATUS            : ACTIVE
+SPECIALIZATION    : QUANTITATIVE SYSTEMS
+COGNITIVE STATE   : OVERCLOCKED
+LOCATION          : UNKNOWN
+SIGNAL STRENGTH   : ██████████ 100%
+
+NOTES:
+The subject demonstrates abnormal interest in:
+
+> algorithmic intelligence
+> market structures
+> autonomous systems
+> deep space technologies
+> machine cognition
+
+Sleep cycle integrity has collapsed.
+Activity spikes detected between 02:00 — 05:00.
+```
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Quantitative+Researcher;Linux+Power+User;Building+AI+Products;Exploring+Space+Technology" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=FFB347&center=true&vCenter=true&width=900&lines=signal+detected...;decoding+market+noise...;building+systems+for+the+future...;obsessed+with+space+and+intelligence...;there+is+no+such+thing+as+randomness..." />
+
+<br>
+<br>
+
+```bash
+$ whoami
+
+miles_007
+
+$ current_focus
+
+- quantitative research
+- ai/ml systems
+- ndt + intelligent diagnostics
+- autonomous technologies
+- space systems engineering
+
+$ system_state
+
+[■■■■■■■■■■] unstable but operational
+
+$ philosophy
+
+"signal exists inside noise."
+```
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  "Most people look at screens.                           │
+│   I look at systems hiding behind them."                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+```diff
++ ACTIVE RESEARCH AREAS
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+```text
+[01] Quantitative Intelligence
+[02] Predictive Systems
+[03] Neural Architectures
+[04] Space Technology
+[05] NDT + AI
+[06] Autonomous Infrastructure
+[07] Human / Machine Interfaces
+```
 
-<br><br>
+<br>
 
----
+```ascii
+░▒▓█ SYSTEM DIAGNOSTICS █▓▒░
 
-# TECH STACK
+Neural Load      ::::::::::::::::::: 97%
+Sleep Deprivation::::::::::::::::: 92%
+Curiosity Engine ::::::::::::::::: 100%
+Creativity Index ::::::::::::::::: 95%
+Sanity Levels    ::::::::::::::::: 41%
+```
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,nodejs,react,nextjs,mongodb,linux,docker,tensorflow,pytorch,git,vscode&perline=8"/>
-</p>
+<br>
 
----
+```text
+TRANSMISSION LOG #042
 
-# CURRENTLY
+If you are reading this,
+the system survived another night.
+```
 
-```python
-class Santosh:
-    def __init__(self):
-        self.role = "Engineer"
+<br>
 
-        self.interests = [
-            "Quantitative Finance",
-            "Machine Learning",
-            "Low Level Systems",
-            "Artificial Intelligence",
-            "Space Technology"
-        ]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=000000&color=FFB347&line=FFB347&point=FFFFFF"/>
 
-    def vision(self):
-        return "Building futuristic systems."
+<br>
+
+```ascii
+███████╗███╗   ██╗██████╗
+██╔════╝████╗  ██║██╔══██╗
+█████╗  ██╔██╗ ██║██║  ██║
+██╔══╝  ██║╚██╗██║██║  ██║
+███████╗██║ ╚████║██████╔╝
+╚══════╝╚═╝  ╚═══╝╚═════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=140&section=footer"/>
+
+</div>
+```
