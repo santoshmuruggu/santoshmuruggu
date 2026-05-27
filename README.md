@@ -1,140 +1,96 @@
-````md
+````md id="r7t2hx"
 <div align="center">
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo3b3RvNXZjNDVzcDk1dGM4cG14bHZjN2xzNHVqNG9iMjdpbzEyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="100%">
+<img 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo3b3RvNXZjNDVzcDk1dGM4cG14bHZjN2xzNHVqNG9iMjdpbzEyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif"
+width="100%"
+/>
 
 
 <br>
 <br>
+<br>
 
 
-```ascii
-███╗   ███╗██╗██╗     ███████╗███████╗     ██████╗  ██████╗ ███████╗
-████╗ ████║██║██║     ██╔════╝██╔════╝    ██╔═████╗██╔═████╗╚════██║
-██╔████╔██║██║██║     █████╗  ███████╗    ██║██╔██║██║██╔██║    ██╔╝
-██║╚██╔╝██║██║██║     ██╔══╝  ╚════██║    ████╔╝██║████╔╝██║   ██╔╝
-██║ ╚═╝ ██║██║███████╗███████╗███████║    ╚██████╔╝╚██████╔╝   ██║
-╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝     ╚═════╝  ╚═════╝    ╚═╝
-````
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&duration=4000&pause=1000&color=FFB347&center=true&vCenter=true&width=1000&height=80&lines=MILES_007" />
+
+
+<br>
+
 
 ```text
-> CLASSIFIED SYSTEM LOG
-──────────────────────────────────────────────────────────────
-
-SUBJECT           : miles_007
-STATUS            : ACTIVE
-SPECIALIZATION    : QUANTITATIVE SYSTEMS
-COGNITIVE STATE   : OVERCLOCKED
-LOCATION          : UNKNOWN
-SIGNAL STRENGTH   : ██████████ 100%
-
-NOTES:
-The subject demonstrates abnormal interest in:
-
-> algorithmic intelligence
-> market structures
-> autonomous systems
-> deep space technologies
-> machine cognition
-
-Sleep cycle integrity has collapsed.
-Activity spikes detected between 02:00 — 05:00.
-```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=FFB347&center=true&vCenter=true&width=900&lines=signal+detected...;decoding+market+noise...;building+systems+for+the+future...;obsessed+with+space+and+intelligence...;there+is+no+such+thing+as+randomness..." />
+quant systems • ai/ml • ndt • deep space technologies
+````
 
 <br>
 <br>
 
 ```bash
-$ whoami
+> initializing classified interface...
 
-miles_007
+identity        :: miles_007
+occupation      :: quantitative systems
+status          :: active
+signal_strength :: ██████████
 
-$ current_focus
+focus           
 
-- quantitative research
+- quantitative intelligence
 - ai/ml systems
-- ndt + intelligent diagnostics
-- autonomous technologies
+- ndt + predictive diagnostics
+- autonomous infrastructure
 - space systems engineering
 
-$ system_state
-
-[■■■■■■■■■■] unstable but operational
-
-$ philosophy
+philosophy
 
 "signal exists inside noise."
 ```
 
 <br>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  "Most people look at screens.                           │
-│   I look at systems hiding behind them."                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-```diff
-+ ACTIVE RESEARCH AREAS
-```
-
-```text
-[01] Quantitative Intelligence
-[02] Predictive Systems
-[03] Neural Architectures
-[04] Space Technology
-[05] NDT + AI
-[06] Autonomous Infrastructure
-[07] Human / Machine Interfaces
-```
-
-<br>
-
-```ascii
-░▒▓█ SYSTEM DIAGNOSTICS █▓▒░
-
-Neural Load      ::::::::::::::::::: 97%
-Sleep Deprivation::::::::::::::::: 92%
-Curiosity Engine ::::::::::::::::: 100%
-Creativity Index ::::::::::::::::: 95%
-Sanity Levels    ::::::::::::::::: 41%
-```
-
 <br>
 
 ```text
-TRANSMISSION LOG #042
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  Most people study technology.                          │
+│                                                         │
+│  Some become part of it.                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=5000&pause=1000&color=FFB347&center=true&vCenter=true&width=900&lines=decoding+market+noise...;searching+for+patterns...;space+signal+detected...;overclocked+systems+active...;sleep+cycle+integrity+lost..." />
+
+<br>
+<br>
+
+```text
+TRANSMISSION_LOG_042
 
 If you are reading this,
+
 the system survived another night.
 ```
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=000000&color=FFB347&line=FFB347&point=FFFFFF"/>
-
 <br>
 
 ```ascii
-███████╗███╗   ██╗██████╗
-██╔════╝████╗  ██║██╔══██╗
-█████╗  ██╔██╗ ██║██║  ██║
-██╔══╝  ██║╚██╗██║██║  ██║
-███████╗██║ ╚████║██████╔╝
-╚══════╝╚═╝  ╚═══╝╚═════╝
+███╗   ███╗██╗██╗     ███████╗███████╗
+████╗ ████║██║██║     ██╔════╝██╔════╝
+██╔████╔██║██║██║     █████╗  ███████╗
+██║╚██╔╝██║██║██║     ██╔══╝  ╚════██║
+██║ ╚═╝ ██║██║███████╗███████╗███████║
+╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=140&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer"/>
 
 </div>
 ```
